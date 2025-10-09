@@ -4,7 +4,7 @@ Welcome! I’m a junior at PRCTC focusing on network fundamentals, defensive sec
 
 ## Quick Links
 - 🌐 **GitHub Pages site:** https://<CalebDorrance>.github.io
-- 👤 **Profile:** https://github.com/<CalebDorrance>
+- 👤 **Profile:** [https://github.com/<CalebDorrance](https://github.com/CalebDorrance)>
 
 ## Projects
 Each project includes a short write-up with objectives, environment, steps, and screenshots.
