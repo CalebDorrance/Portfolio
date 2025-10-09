@@ -1,1 +1,29 @@
+# <Project Title>
+**Focus:** <protocols / recon / VLANs / scripting>  
+**Date:** <YYYY-MM-DD>
 
+## Objectives
+- <What you set out to learn or show>  
+- <e.g., capture & interpret DNS queries/responses>
+
+## Lab Environment
+- Host OS: <Windows/Linux/macOS>  
+- Tools: <Wireshark/Nmap/Packet Tracer/etc.>  
+- Network: <isolated VM lab / Packet Tracer simulation>
+
+## Steps (High Level)
+1. <Example: Generated DNS traffic by visiting example.com in a lab browser>
+2. <Captured traffic in Wireshark with filter `dns`>
+3. <Analyzed query/response pairs; identified A/AAAA records>
+
+## Key Findings / Screens
+- Screenshot: `../assets/<image>.png`  
+- What the screenshot proves in one sentence.
+
+## What I Learned
+- <One or two bullet points of takeaways>
+
+## Next Steps
+- <What you’d do to extend the lab>
+
+> **Ethics:** Performed on authorized systems only. Redacted sensitive info.
