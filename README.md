@@ -11,7 +11,7 @@ Each project includes a short write-up with objectives, environment, steps, and 
 
 | # | Project | Focus | Files |
 |---|--------|-------|------|
-| 1 | **Wireshark – DNS Deep-Dive** | Protocol analysis | [Wireshark DNS deep-dive](./projects/Wireshark-DNS-deep-dive) |
+| 1 | **Wireshark – DNS Deep-Dive** | Protocol analysis | [Wireshark DNS deep-dive]([./projects/Wireshark-DNS-deep-dive](https://github.com/CalebDorrance/Portfolio/blob/main/Projects/Wireshark%20DNS%20deep%20dive) |
 | 2 | **Nmap – Home-Lab Scan** | Recon & enumeration | [/projects/nmap-lab.md](./projects/nmap-lab.md) |
 | 3 | **Packet Tracer – VLAN & Inter-VLAN** | L2/L3 fundamentals | [/projects/pt-vlan.md](./projects/pt-vlan.md) |
 | 4 | **PowerShell – Local Inventory** | Scripting | [/projects/ps-inventory.md](./projects/ps-inventory.md) |
