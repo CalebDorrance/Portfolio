@@ -15,7 +15,7 @@ Each project includes a short write-up with objectives, environment, steps, and 
 | 2 | **Nmap – Home-Lab Scan** | Recon & enumeration | [Nmap Lab](https://github.com/CalebDorrance/Portfolio/blob/main/Projects/Nmap%20lab) |
 | 3 | **Packet Tracer – VLAN & Inter-VLAN** | L2/L3 fundamentals | [Packet Tracer VLANs](https://github.com/CalebDorrance/Portfolio/blob/main/Projects/Packet%20Tracer%20VLANs) |
 | 4 | **PowerShell – Local Inventory** | Scripting | [PowerShell Inventory](https://github.com/CalebDorrance/Portfolio/blob/main/Projects/PowerShell%20inventory) |
-| 5 | **Linux Hardening Mini-Checklist** | Linux | [Linux Hardening Mini-Checklist](https://github.com/CalebDorrance/Portfolio/blob/main/Projects/PowerShell%20inventory) |
+| 5 | **Linux Hardening Mini-Checklist** | Linux | [Linux Hardening Mini-Checklist](https://github.com/CalebDorrance/Portfolio/blob/main/Projects/Linux%20Hardening%20Mini-Checklist)) |
 
 > ⚠️ Ethics & Safety: All work was performed on devices and networks I own or have explicit permission to test. Sensitive data removed.
 
